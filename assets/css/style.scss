@@ -61,7 +61,10 @@ a:hover {
 
 .view a::before {
   content: "\f09b";
-  font-family: "Font Awesome 6 Brands";
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  font: var(--fa-font-brands);
   font-size: 1.1rem;
   line-height: 1;
   color: #24292f;

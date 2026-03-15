@@ -1,5 +1,5 @@
 ---
-title: Productive Procrastination Part-II: How I Built My Claw to Do My Taxes - My Working NanoClaw Setup (Mac + Phone)
+title: "Productive Procrastination Part-II: How I Built My Claw to Do My Taxes - My Working NanoClaw Setup (Mac + Phone)"
 ---
 
 # Productive Procrastination Part-II: How I Built My Claw to Do My Taxes - My Working NanoClaw Setup (Mac + Phone)
