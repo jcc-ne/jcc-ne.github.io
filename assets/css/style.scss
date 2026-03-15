@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  max-width: 1180px;
+  width: calc(100% - 64px);
+}
+
+header {
+  width: 220px;
+  float: left;
+  position: sticky;
+  top: 32px;
+}
+
+section {
+  width: calc(100% - 280px);
+  float: right;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+
+p {
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 1.5em;
+}
+
+ul {
+  margin-top: 0.6em;
+}
+
+li + li {
+  margin-top: 0.35em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@media print, screen and (max-width: 1120px) {
+  div.wrapper {
+    width: auto;
+    margin: 0 20px;
+  }
+
+  header,
+  section,
+  footer {
+    float: none;
+    position: static !important;
+    width: auto;
+    min-height: 0;
+  }
+}

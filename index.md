@@ -7,7 +7,7 @@ I am not a blogger — I drop _very_ occasional notes here to crystallize ideas 
 Thing(s) here are small systems, configs, or working setups that solved a real problem for me.
 
 
-# Workspace
+## Workspace
 
 - [My NanoClaw fork](https://github.com/jcc-ne/NanoClaw)
 - [Productive Procrastination: Why I Built My Claw to Do My Taxes (And What Actually Worked)](/clawdia/clawdia-vs-tax-2025/)
