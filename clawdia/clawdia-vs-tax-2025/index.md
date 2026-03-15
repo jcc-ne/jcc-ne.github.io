@@ -43,7 +43,7 @@ And I had this thought: *What if Clawdia isn't just for casual questions? What i
 
 Taxes became the test: Could my casual life assistant actually do serious work?
 
-![Messaging Clawdia from my phone - send a request while cooking dinner, check results later on cloud-synced drive.|260](../images/mobile-messaging-telegram.jpg)
+![Messaging Clawdia from my phone - send a request while cooking dinner, check results later on cloud-synced drive.](../images/mobile-messaging-telegram.jpg){:width="260px"}
 
 ## My Personal Agent Stack
 
@@ -121,7 +121,7 @@ I enabled browser automation. In theory, Clawdia could:
 
 **Document downloading?** Actually worked! Watched (via VNC) as the AI navigated to Schwab, found the tax center, downloaded my 1099-B. Saved me 30 minutes of clicking through menus and organizing things in the correct folder.
 
-![Clawdia navigating to Fidelity via browser automation - it found the login page and described what it saw. This worked great for document collection.|500](../images/browser-automation-fidelity.jpg)
+![Clawdia navigating to Fidelity via browser automation - it found the login page and described what it saw. This worked great for document collection.](../images/browser-automation-fidelity.jpg){:width="500px"}
 
 **Form filling?** Not so much. TaxAct has dropdown menus, modal dialogs, dynamic forms... all the things that confuse bots. The AI would get halfway through, then a tooltip would appear and block the next field. Or it would accidentally dismiss a modal.
 
@@ -165,7 +165,7 @@ SOURCE: schwab-1099b-2025.pdf, pages 1-15
 
 Holy guacamole. This would have taken hours, factoring in the time I'd spend on social media in between clicking through pages of the docs.
 
-![Clawdia extracted and organized my 1099-INT automatically - document type, payer info, recipient details, and tax numbers all structured and ready to review. Account and personal details redacted for this article.|475](../images/desktop-extraction-summary.jpg)
+![Clawdia extracted and organized my 1099-INT automatically - document type, payer info, recipient details, and tax numbers all structured and ready to review. Account and personal details redacted for this article.](../images/desktop-extraction-summary.jpg){:width="475px"}
 
 And every number has a source reference. I can verify it in seconds instead of re-reading 112 pages.
 
@@ -349,7 +349,7 @@ I'm already using Clawdia for other stuff:
 
 **My full stack:** I use Obsidian as the knowledge base to store all extracted data and artifacts. Everything cloud-syncs, so I can review results on any device - phone, tablet, laptop.
 
-**Want my working setup?** Part II will show how I set up NanoClaw + Obsidian + Telegram on my Mac and phone. It's operational, not polished, but it works. [Follow for updates]
+**Want my working setup?** Part II will show how I set up NanoClaw + Obsidian + Telegram on my Mac and phone. It's operational, not polished, but it works. [Coming up!]
 
 ## The Lesson
 
@@ -369,8 +369,3 @@ Done, with the feeling that next time it'll be even better.
 
 **If you try this (or any AI agent experiment), I'd love to hear how it goes. What worked? What hilariously failed? Let me know in the comments.**
 
----
-
-## About the Author
-
-[Janine to add bio]
